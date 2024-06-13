@@ -2,5 +2,34 @@ h1 {
   font-family: "Verdana", sans-serif;
   font-weight: 400;
   font-size: 50px;
+  color: #fff;
+}
+
+h2 {
+  font-family: "Verdana", sans-serif;
+  font-weight: 300;
+  font-size: 42px;
+  color: #fff;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+p {
+  font-family: "Verdana", sans-serif;
+  font-weight: 300;
+  font-size: 21px;
+  color: gray;
+}
+
+html {
+  background-color: #000;
   text-align: center;
+}
+
+img {
+  width: 70%;
+  height: auto;
 }
